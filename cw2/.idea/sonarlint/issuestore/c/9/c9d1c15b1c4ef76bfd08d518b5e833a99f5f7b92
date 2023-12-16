@@ -1,0 +1,12 @@
+
+7
+java:S1220""Move this file to a named package.8é›ŒŽÇ1
+V
+java:S5993	"9Change the visibility of this constructor to "protected".(ø£‚™8õ›ŒŽÇ1
+G	java:S106 "+Replace this use of System.out by a logger.(°²Ñ‹8ý›ŒŽÇ1
+Y
+java:S1854/"<Remove this useless assignment to local variable "distance".(Ìô­Û8€œŒŽÇ1
+J
+java:S1481/"-Remove this unused "distance" local variable.(Ìô­Û8ƒœŒŽÇ1
+L
+java:S1068&"*Remove this unused "DAMAGE" private field.(‰ñ¾øøÿÿÿÿ8„œŒŽÇ1
